@@ -5,7 +5,7 @@ This repository contains the implementation and documentation for **Coursework 1
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | Student Name                     | Student ID  |
 |----------------------------------|-------------|
