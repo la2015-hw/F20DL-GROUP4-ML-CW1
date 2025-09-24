@@ -1,0 +1,17 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook Metadata
+.jupyter_workspace/
+.vscode/
+.idea/
+
+# Python specific files
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
